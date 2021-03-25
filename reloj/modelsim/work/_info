@@ -1,0 +1,455 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera_lite/16.0
+Ecnt_horas
+Z0 w1613467552
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/jcwit/Desktop/MEDTH/reloj/modelsim
+Z6 8C:/Users/jcwit/Desktop/MEDTH/reloj/hdl/cnt_horas.vhd
+Z7 FC:/Users/jcwit/Desktop/MEDTH/reloj/hdl/cnt_horas.vhd
+l0
+L5
+VgZ09N_BXgFB5beZClimVT0
+!s100 aI8e><ABL=BzoeDnk=bS92
+Z8 OV;C;10.4d;61
+32
+Z9 !s110 1614185250
+!i10b 1
+Z10 !s108 1614185250.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jcwit/Desktop/MEDTH/reloj/hdl/cnt_horas.vhd|
+Z12 !s107 C:/Users/jcwit/Desktop/MEDTH/reloj/hdl/cnt_horas.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+Artl
+R1
+R2
+R3
+R4
+Z15 DEx4 work 9 cnt_horas 0 22 gZ09N_BXgFB5beZClimVT0
+l32
+L19
+V_eEEM@LHm6O_T=FJa_XFZ3
+!s100 aPkB@:;dh3d8lekb9^NYA1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ecnt_min
+R0
+R1
+R2
+R3
+R4
+R5
+Z16 8C:/Users/jcwit/Desktop/MEDTH/reloj/hdl/cnt_min.vhd
+Z17 FC:/Users/jcwit/Desktop/MEDTH/reloj/hdl/cnt_min.vhd
+l0
+L5
+V]zXWi[8NkAgh4G5^7PYQ@3
+!s100 aHL4EU5hg<zV>=noLWdU>2
+R8
+32
+R9
+!i10b 1
+R10
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jcwit/Desktop/MEDTH/reloj/hdl/cnt_min.vhd|
+Z19 !s107 C:/Users/jcwit/Desktop/MEDTH/reloj/hdl/cnt_min.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+Z20 DEx4 work 7 cnt_min 0 22 ]zXWi[8NkAgh4G5^7PYQ@3
+l20
+L17
+Veh08dW_o@gST^O7G230W>3
+!s100 iXzQUhjVg=3G>][gEFTHF1
+R8
+32
+R9
+!i10b 1
+R10
+R18
+R19
+!i113 1
+R13
+R14
+Ecnt_reloj
+R0
+R1
+R2
+R3
+R4
+R5
+Z21 8C:/Users/jcwit/Desktop/MEDTH/reloj/hdl/cnt_reloj.vhd
+Z22 FC:/Users/jcwit/Desktop/MEDTH/reloj/hdl/cnt_reloj.vhd
+l0
+L5
+VVb1Vje8ILh9SoE0a[V;iK2
+!s100 76RXSk:YS<>>Yfd3`Pz1J3
+R8
+32
+R9
+!i10b 1
+R10
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jcwit/Desktop/MEDTH/reloj/hdl/cnt_reloj.vhd|
+Z24 !s107 C:/Users/jcwit/Desktop/MEDTH/reloj/hdl/cnt_reloj.vhd|
+!i113 1
+R13
+R14
+Aestructural
+R15
+R20
+Z25 DEx4 work 7 cnt_seg 0 22 @BOMCPTUeZ`:4gHRK@Bn33
+R1
+R2
+R3
+R4
+Z26 DEx4 work 9 cnt_reloj 0 22 Vb1Vje8ILh9SoE0a[V;iK2
+l26
+L22
+V5Q4]:SLb`k=8`kGPUYV?j1
+!s100 H^k<H=L8?bkmUhV0gbZNK3
+R8
+32
+R9
+!i10b 1
+R10
+R23
+R24
+!i113 1
+R13
+R14
+Ecnt_seg
+R0
+R1
+R2
+R3
+R4
+R5
+Z27 8C:/Users/jcwit/Desktop/MEDTH/reloj/hdl/cnt_seg.vhd
+Z28 FC:/Users/jcwit/Desktop/MEDTH/reloj/hdl/cnt_seg.vhd
+l0
+L5
+V@BOMCPTUeZ`:4gHRK@Bn33
+!s100 <H<dG<kLmzAY7J3?Di<9S0
+R8
+32
+R9
+!i10b 1
+R10
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jcwit/Desktop/MEDTH/reloj/hdl/cnt_seg.vhd|
+Z30 !s107 C:/Users/jcwit/Desktop/MEDTH/reloj/hdl/cnt_seg.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+R25
+l18
+L15
+VD1?CbiNnSZ`]D0J]0CdD^0
+!s100 Zk>A@O@^mYb_KDeY1d@FC2
+R8
+32
+R9
+!i10b 1
+R10
+R29
+R30
+!i113 1
+R13
+R14
+Ectrl_reloj
+R0
+R1
+R2
+R3
+R4
+R5
+Z31 8C:/Users/jcwit/Desktop/MEDTH/reloj/hdl/ctrl_reloj.vhd
+Z32 FC:/Users/jcwit/Desktop/MEDTH/reloj/hdl/ctrl_reloj.vhd
+l0
+L5
+V9SQ=z_S?LCJ==A25hh:oF2
+!s100 94:m`kOJoCWd18`UD@h;S1
+R8
+32
+R9
+!i10b 1
+R10
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jcwit/Desktop/MEDTH/reloj/hdl/ctrl_reloj.vhd|
+Z34 !s107 C:/Users/jcwit/Desktop/MEDTH/reloj/hdl/ctrl_reloj.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+Z35 DEx4 work 10 ctrl_reloj 0 22 9SQ=z_S?LCJ==A25hh:oF2
+l43
+L23
+V;2<K;>`dAA_8LWRJh[R@z1
+!s100 5DVUjigBo1mKjcYbk``zh3
+R8
+32
+R9
+!i10b 1
+R10
+R33
+R34
+!i113 1
+R13
+R14
+Ppack_test_reloj
+R1
+R2
+R3
+R4
+Z36 w1613730110
+R5
+Z37 8C:/Users/jcwit/Desktop/MEDTH/reloj/modelsim/test/pack_test_reloj.vhd
+Z38 FC:/Users/jcwit/Desktop/MEDTH/reloj/modelsim/test/pack_test_reloj.vhd
+l0
+L5
+V<=dn]O0z8aKzSYk]glN?U1
+!s100 VPEWzGVTWlBQTZVVD43<11
+R8
+32
+b1
+Z39 !s110 1614185251
+!i10b 1
+Z40 !s108 1614185251.000000
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jcwit/Desktop/MEDTH/reloj/modelsim/test/pack_test_reloj.vhd|
+Z42 !s107 C:/Users/jcwit/Desktop/MEDTH/reloj/modelsim/test/pack_test_reloj.vhd|
+!i113 1
+R13
+R14
+Bbody
+Z43 DPx4 work 15 pack_test_reloj 0 22 <=dn]O0z8aKzSYk]glN?U1
+R1
+R2
+R3
+R4
+l0
+L68
+VgQAIZmCV8dW:A8hRGV^8^2
+!s100 GA77C5X^`TYJHOD8;D8j23
+R8
+32
+R39
+!i10b 1
+R40
+R41
+R42
+!i113 1
+R13
+R14
+Ereloj
+R0
+R1
+R2
+R3
+R4
+R5
+Z44 8C:/Users/jcwit/Desktop/MEDTH/reloj/hdl/reloj.vhd
+Z45 FC:/Users/jcwit/Desktop/MEDTH/reloj/hdl/reloj.vhd
+l0
+L5
+V;FUGaHmTd7B2PmQIP`S[m0
+!s100 ;3c`LK7ZkEUQ;S[S62FB>2
+R8
+32
+R9
+!i10b 1
+R10
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jcwit/Desktop/MEDTH/reloj/hdl/reloj.vhd|
+Z47 !s107 C:/Users/jcwit/Desktop/MEDTH/reloj/hdl/reloj.vhd|
+!i113 1
+R13
+R14
+Aestructural
+R26
+R35
+R1
+R2
+R3
+R4
+Z48 DEx4 work 5 reloj 0 22 ;FUGaHmTd7B2PmQIP`S[m0
+l29
+L22
+V^Ph6TL>BKB]^:jeMaTR`Q0
+!s100 =2^z:`D`1<kFjL?OzX_RZ2
+R8
+32
+R9
+!i10b 1
+R10
+R46
+R47
+!i113 1
+R13
+R14
+Etest_estimulos_reloj
+Z49 w1614184222
+R43
+R1
+R2
+R3
+R4
+R5
+Z50 8C:/Users/jcwit/Desktop/MEDTH/reloj/modelsim/test/test_estimulos_reloj.vhd
+Z51 FC:/Users/jcwit/Desktop/MEDTH/reloj/modelsim/test/test_estimulos_reloj.vhd
+l0
+L7
+V?nMN2bb2DXRNi0Bl]3o7h0
+!s100 _^@5<Pj14_AK1YO;eHzdS3
+R8
+32
+R39
+!i10b 1
+R40
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jcwit/Desktop/MEDTH/reloj/modelsim/test/test_estimulos_reloj.vhd|
+Z53 !s107 C:/Users/jcwit/Desktop/MEDTH/reloj/modelsim/test/test_estimulos_reloj.vhd|
+!i113 1
+R13
+R14
+Atest
+R43
+R1
+R2
+R3
+R4
+Z54 DEx4 work 20 test_estimulos_reloj 0 22 ?nMN2bb2DXRNi0Bl]3o7h0
+l26
+L24
+VeB>FdMJS@5LTdji]0GQXM0
+!s100 lXV5[oMQ<f`RF89fIgEJJ2
+R8
+32
+R39
+!i10b 1
+R40
+R52
+R53
+!i113 1
+R13
+R14
+Etest_monitor_reloj
+Z55 w1613730483
+R43
+R1
+R2
+R3
+R4
+R5
+Z56 8C:/Users/jcwit/Desktop/MEDTH/reloj/modelsim/test/test_monitor_reloj.vhd
+Z57 FC:/Users/jcwit/Desktop/MEDTH/reloj/modelsim/test/test_monitor_reloj.vhd
+l0
+L7
+VT77AY2;KKe[nMmj3^hD@43
+!s100 O^]AL_gmU>gRKKK:>5FiN2
+R8
+32
+Z58 !s110 1614185252
+!i10b 1
+R40
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jcwit/Desktop/MEDTH/reloj/modelsim/test/test_monitor_reloj.vhd|
+Z60 !s107 C:/Users/jcwit/Desktop/MEDTH/reloj/modelsim/test/test_monitor_reloj.vhd|
+!i113 1
+R13
+R14
+Atest
+R43
+R1
+R2
+R3
+R4
+Z61 DEx4 work 18 test_monitor_reloj 0 22 T77AY2;KKe[nMmj3^hD@43
+l26
+L24
+Z62 V3@e<BI>^8E3zNoP:P?mf?1
+Z63 !s100 W:YHJ`^_WJHaLiDS?[E_;2
+R8
+32
+R58
+!i10b 1
+R40
+R59
+R60
+!i113 1
+R13
+R14
+Etest_reloj
+Z64 w1613640050
+R43
+R1
+R2
+R3
+R4
+R5
+Z65 8C:/Users/jcwit/Desktop/MEDTH/reloj/modelsim/test/test_reloj.vhd
+Z66 FC:/Users/jcwit/Desktop/MEDTH/reloj/modelsim/test/test_reloj.vhd
+l0
+L7
+VG^nWI0iVzIm;]Td8]GXcf1
+!s100 Mnj]8jAL<FF]:Ci9`7iWD1
+R8
+32
+R39
+!i10b 1
+R40
+Z67 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jcwit/Desktop/MEDTH/reloj/modelsim/test/test_reloj.vhd|
+Z68 !s107 C:/Users/jcwit/Desktop/MEDTH/reloj/modelsim/test/test_reloj.vhd|
+!i113 1
+R13
+R14
+Atest
+R61
+R54
+R48
+R43
+R1
+R2
+R3
+R4
+DEx4 work 10 test_reloj 0 22 G^nWI0iVzIm;]Td8]GXcf1
+l28
+L10
+Vk^z7e:=zzH>jM[lF@W9Q21
+!s100 e5I8^YBJ:F5?LNCl5_kTd1
+R8
+32
+R39
+!i10b 1
+R40
+R67
+R68
+!i113 1
+R13
+R14
