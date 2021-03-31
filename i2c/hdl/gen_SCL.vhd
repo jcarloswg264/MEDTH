@@ -162,22 +162,22 @@ begin
             else '0';
 
   -- ********************* Generacion de SCL con salida en colector (drenador abierto) ************************
-  --
-  n_ctrl_SCL <= '1' when cnt_SCL <= I2C_FAST_T_SCL_H else                               -- reloj i2c
+  
+  n_ctrl_SCL <= '1' when cnt_SCL < I2C_FAST_T_SCL_H else                               -- reloj i2c
+                '1' when cnt_SCL = I2C_FAST_T_SCL else 
                 not ena_SCL;  
-
-  Reg_Scl <= n_ctrl_SCL when n_ctrl_SCL = '0' else                                  -- Modelo de la salida SCL en colector abierto
-         'Z';
 
   --***********************************************************************************************************
   process(clk,nRst)
     begin
       if nRst = '0' then
-      SCL <= 'H';
+        Reg_Scl <= '1';
       
       elsif clk'event and clk = '1' then
-      SCL <= Reg_Scl;
-    end if;
+        Reg_Scl <= n_ctrl_SCL;
+      end if;
     end process;
   
+  SCL <= Reg_Scl when Reg_Scl = '0' else                                       -- Modelo de la salida SCL en colector abierto
+         'Z';
 end rtl;

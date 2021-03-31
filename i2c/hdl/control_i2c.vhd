@@ -159,7 +159,6 @@ begin
 -------------------------------
 --Elegimos la opcion A) ya que cuando ena_in_SDA = '1', nos aseguramos que 
 --el reloj este a nivel alto y estamos en el primer periodo de reloj
---¿Se podria poner la B) o la D)?
 -------------------------------
 
           end if;
@@ -218,7 +217,7 @@ begin
 
   -- Control del registro de salida: 
                        -- ******************************: ejercicio 2
-  carga_reg_out_SDA    <=  not nWR when estado = cargar_byte      -- Carga el byte a transmitir... 
+  carga_reg_out_SDA    <=  not nWR_op when estado = cargar_byte      -- Carga el byte a transmitir... 
            		   else '0';                              -- ...preservando el valor de SDA (bit mas alto del registro)
 --------------------------------------------
 --Elegimos la opcion C) ya que nWR se actualiza con nWR_op al pasar de estado (libre => cargar_byte)
@@ -249,12 +248,9 @@ begin
 --en el estado "STOP" es cuando se realiza el preset y se pone la linea SDA a '1'
 ----------------------------------------------------
                        -- ******************************: ejercicio 5
-  desplaza_reg_out_SDA <= ena_out_SDA when estado = tx_byte       -- Se desplaza el dato cuando lo indica la segnal de gen_SCL                         
+  desplaza_reg_out_SDA <= ena_out_SDA when estado = tx_byte or estado = ACK      -- Se desplaza el dato cuando lo indica la segnal de gen_SCL                         
                           else '0';                               -- Nota: Esta segnal de control tiene menos prioridas
                                                                   -- que reset_SDA y preset_SDA
----------------------------------------------
---Elegimos la opcion B) porque es la unica que se da en el estado "tx_byte"
---¿Escribir dato en SDA = desplazar el registro de salida?
 ---------------------------------------------
   --************************************************************************************************************
 

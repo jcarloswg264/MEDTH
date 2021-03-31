@@ -42,10 +42,20 @@ end entity;
 architecture rtl of filtro_SDA is
   signal SDA_in_T:   std_logic_vector(4 downto 1);   -- Rango con referencias
   signal SDA_T_0:    std_logic;                      -- Simplificacion del codigo
+  signal SDA_T_0_reg: std_logic;
 
 begin
-  SDA_T_0 <= To_X01(SDA_in);                         -- SDA_in vale '0' o 'H'
+  SDA_T_0_reg <= To_X01(SDA_in);                         -- SDA_in vale '0' o 'H'
 
+  process (clk,nRst)
+  begin 
+    if nRst = '0' then
+      SDA_T_0 <= '0';
+    elsif clk'event and clk = '1' then
+      SDA_T_0 <= SDA_T_0_reg;
+  end if;
+  end process; 
+  
   process(clk, nRst)                                 -- Filtrado de glitches < 60 ns
   begin
     if nRst = '0' then
