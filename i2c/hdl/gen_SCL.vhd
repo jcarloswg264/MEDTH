@@ -165,7 +165,7 @@ begin
   n_ctrl_SCL <= '1' when cnt_SCL <= I2C_FAST_T_SCL_H else                               -- reloj i2c
                 not ena_SCL;  
 
-  Reg_Scl <= n_ctrl_SCL when n_ctrl_SCL = '0' else                                  -- Modelo de la salida SCL en colector abierto
+  SCL <= n_ctrl_SCL when n_ctrl_SCL = '0' else                                  -- Modelo de la salida SCL en colector abierto
          'Z';
 
   --***********************************************************************************************************
