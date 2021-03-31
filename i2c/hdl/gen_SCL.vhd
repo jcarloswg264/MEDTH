@@ -64,6 +64,7 @@
 --    Designer: DTE
 --    Versión: 1.0
 --    Fecha: 21-11-2016
+--    comentario 
 
 library ieee;
 use ieee.std_logic_1164.all;
