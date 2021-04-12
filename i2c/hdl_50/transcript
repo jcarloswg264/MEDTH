@@ -1,0 +1,9 @@
+# Reading C:/altera_lite/16.0/modelsim_ase/tcl/vsim/pref.tcl
+# OpenFile {D:/jcwit/Universidad Politécnica de Madrid/DD2 2020 2021 - Documentos/MEDTH/i2c/hdl/I2c_Z4.mpf}
+# Loading project I2c_Z4
+# Error opening F:/univerisidad/DD2/I2C/HDL/gen_SCL.vhd
+# Path name 'F:/univerisidad/DD2/I2C/HDL/gen_SCL.vhd' doesn't exist.
+# Error opening F:/univerisidad/DD2/I2C/HDL/gen_SCL.vhd
+# Path name 'F:/univerisidad/DD2/I2C/HDL/gen_SCL.vhd' doesn't exist.
+# Error opening F:/univerisidad/DD2/I2C/MODELSIM/sequencer_slave_i2c.vhd
+# Path name 'F:/univerisidad/DD2/I2C/MODELSIM/sequencer_slave_i2c.vhd' doesn't exist.

@@ -1,0 +1,693 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\univerisidad\DD2\I2C\HDL
+Eagente_slave_i2c
+Z1 w1489594698
+Z2 DPx4 work 21 pack_agente_slave_i2c 0 22 d_OJOXMOzUFeY_H4Qh[:C1
+Z3 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z4 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z5 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z6 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z7 dF:\univerisidad\DD2\I2C\HDL
+Z8 8F:\univerisidad\DD2\I2C\MODELSIM\agente_slave_i2c.vhd
+Z9 FF:\univerisidad\DD2\I2C\MODELSIM\agente_slave_i2c.vhd
+l0
+L11
+V>ozRPJcBm@mfY;WnM>3Ck1
+Z10 OV;C;10.1d;51
+32
+Z11 !s108 1615844210.400000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:\univerisidad\DD2\I2C\MODELSIM\agente_slave_i2c.vhd|
+Z13 !s107 F:\univerisidad\DD2\I2C\MODELSIM\agente_slave_i2c.vhd|
+Z14 o-work work -2002 -explicit -O0
+Z15 tExplicit 1
+!s100 0<NR<DdOZh@[?Gb1@lhn]2
+!i10b 1
+Asim_struct
+Z16 DEx4 work 19 sequencer_slave_i2c 0 22 6KP]l4O5S@OIzlhBdnF_z1
+Z17 DEx4 work 17 monitor_slave_i2c 0 22 n23N?cSdK:4<zR8ImAdb43
+Z18 DEx4 work 18 colector_slave_i2c 0 22 Q7U1G>][a5iTH370ghDmh1
+Z19 DEx4 work 19 responder_slave_i2c 0 22 G]49H1[?aW03Iz3oHkXn52
+R2
+R3
+R4
+R5
+R6
+Z20 DEx4 work 16 agente_slave_i2c 0 22 >ozRPJcBm@mfY;WnM>3Ck1
+l32
+L22
+V1h4Xm1hPaThOjJc512znH1
+R10
+32
+R11
+R12
+R13
+R14
+R15
+!s100 9nPfd606n9L7ogn<8aimJ1
+!i10b 1
+Ecolector_slave_i2c
+Z21 w1489594690
+R2
+R3
+R4
+R5
+R6
+R7
+Z22 8F:\univerisidad\DD2\I2C\MODELSIM\colector_slave_i2c.vhd
+Z23 FF:\univerisidad\DD2\I2C\MODELSIM\colector_slave_i2c.vhd
+l0
+L35
+VQ7U1G>][a5iTH370ghDmh1
+R10
+32
+Z24 !s108 1615844210.680000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:\univerisidad\DD2\I2C\MODELSIM\colector_slave_i2c.vhd|
+Z26 !s107 F:\univerisidad\DD2\I2C\MODELSIM\colector_slave_i2c.vhd|
+R14
+R15
+!s100 STzH5be0L`K@iUgFW4=5>3
+!i10b 1
+Asim
+R2
+R3
+R4
+R5
+R6
+R18
+l53
+L46
+VlXWmY6l6Fak?Vg6CNJT=80
+R10
+32
+R24
+R25
+R26
+R14
+R15
+!s100 M9M6T9Lj<ZQkW`SkAC?cX1
+!i10b 1
+Ectrl_i2c
+Z27 w1615838806
+R3
+R4
+R5
+R6
+R7
+Z28 8F:\univerisidad\DD2\I2C\HDL\control_i2c.vhd
+Z29 FF:\univerisidad\DD2\I2C\HDL\control_i2c.vhd
+l0
+L65
+Vl54Wdi>5[=EaEBJHBeLA51
+R10
+32
+Z30 !s108 1615844208.769000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:\univerisidad\DD2\I2C\HDL\control_i2c.vhd|
+Z32 !s107 F:\univerisidad\DD2\I2C\HDL\control_i2c.vhd|
+R14
+R15
+!s100 Ag?FKL5WgKc0VJcYNiNWk3
+!i10b 1
+Artl
+R3
+R4
+R5
+R6
+Z33 DEx4 work 8 ctrl_i2c 0 22 l54Wdi>5[=EaEBJHBeLA51
+l119
+L104
+VQ?Mf5U_gP9NmKE::X=R<o2
+R10
+32
+R30
+R31
+R32
+R14
+R15
+!s100 gM@ZlW:6KzWQ8]9Z@jJ0o3
+!i10b 1
+Edriver_clk_nrst
+Z34 w1488198744
+R5
+R6
+R7
+Z35 8F:\univerisidad\DD2\I2C\MODELSIM\driver_clk_nRst.vhd
+Z36 FF:\univerisidad\DD2\I2C\MODELSIM\driver_clk_nRst.vhd
+l0
+L8
+VD9mGfESn]`nA8R6TGObIo3
+R10
+32
+Z37 !s108 1615844210.947000
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:\univerisidad\DD2\I2C\MODELSIM\driver_clk_nRst.vhd|
+Z39 !s107 F:\univerisidad\DD2\I2C\MODELSIM\driver_clk_nRst.vhd|
+R14
+R15
+!s100 TlmXoma?cK><<cC0X_^N[3
+!i10b 1
+Asim
+R5
+R6
+Z40 DEx4 work 15 driver_clk_nrst 0 22 D9mGfESn]`nA8R6TGObIo3
+l17
+L16
+VmQzI_g1WmoQ01A?32l=ZD1
+R10
+32
+R37
+R38
+R39
+R14
+R15
+!s100 E?E=9d583NK9MaE_gB:<o1
+!i10b 1
+Efiltro_sda
+Z41 w1518693829
+R3
+R4
+R5
+R6
+R7
+Z42 8F:\univerisidad\DD2\I2C\HDL\filtro_SDA.vhd
+Z43 FF:\univerisidad\DD2\I2C\HDL\filtro_SDA.vhd
+l0
+L34
+Vf@1EV<QgmJ0j[nG:oH`TV1
+R10
+32
+Z44 !s108 1615844209.108000
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:\univerisidad\DD2\I2C\HDL\filtro_SDA.vhd|
+Z46 !s107 F:\univerisidad\DD2\I2C\HDL\filtro_SDA.vhd|
+R14
+R15
+!s100 HaXRA36L^GMhI[@]>hhj51
+!i10b 1
+Artl
+R3
+R4
+R5
+R6
+Z47 DEx4 work 10 filtro_sda 0 22 f@1EV<QgmJ0j[nG:oH`TV1
+l46
+L42
+VO5J4dzOMbD^jjMS2b2J9E3
+R10
+32
+R44
+R45
+R46
+R14
+R15
+!s100 ga9357[gC5I4P2eRJ=<SQ3
+!i10b 1
+Egen_scl
+Z48 w1615842215
+R3
+R4
+R5
+R6
+R7
+Z49 8F:\univerisidad\DD2\I2C\HDL\gen_SCL.vhd
+Z50 FF:\univerisidad\DD2\I2C\HDL\gen_SCL.vhd
+l0
+L72
+V2aZ55zUEmjhz2jBCz??hm3
+R10
+32
+Z51 !s108 1615844209.365000
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:\univerisidad\DD2\I2C\HDL\gen_SCL.vhd|
+Z53 !s107 F:\univerisidad\DD2\I2C\HDL\gen_SCL.vhd|
+R14
+R15
+!s100 bHfkh:djzRo8kL]8I;iUQ3
+!i10b 1
+Artl
+R3
+R4
+R5
+R6
+Z54 DEx4 work 7 gen_scl 0 22 2aZ55zUEmjhz2jBCz??hm3
+l115
+L85
+VC>=JV6zf9DlFbn298]c1e1
+R10
+32
+R51
+R52
+R53
+R14
+R15
+!s100 Qmg`832D5=c]=AkRhPEAd1
+!i10b 1
+Einterfaz_i2c
+Z55 w1550159968
+R3
+R4
+R5
+R6
+R7
+Z56 8F:\univerisidad\DD2\I2C\HDL\interfaz_i2c.vhd
+Z57 FF:\univerisidad\DD2\I2C\HDL\interfaz_i2c.vhd
+l0
+L43
+VRTH9^GiH7^_QG7FEg;^0]3
+R10
+32
+Z58 !s108 1615844209.592000
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:\univerisidad\DD2\I2C\HDL\interfaz_i2c.vhd|
+Z60 !s107 F:\univerisidad\DD2\I2C\HDL\interfaz_i2c.vhd|
+R14
+R15
+!s100 UAhG44jBm@ClJ>Hci`cEd1
+!i10b 1
+Aestructural
+Z61 DEx4 work 10 reg_in_sda 0 22 ?PC8WY@k?hdbKod]VoOE13
+R47
+Z62 DEx4 work 11 reg_out_sda 0 22 d3>E<6:CLBe]>dWal:PB[1
+R33
+R54
+R3
+R4
+R5
+R6
+Z63 DEx4 work 12 interfaz_i2c 0 22 RTH9^GiH7^_QG7FEg;^0]3
+l74
+L58
+V[Shzc7QJPDBOQV1ec:_bH0
+R10
+32
+R58
+R59
+R60
+R14
+R15
+!s100 ]>[YfSHWP_VhIPcNg>Rc`0
+!i10b 1
+Emonitor_bus_i2c
+Z64 w1488198722
+R3
+R4
+R5
+R6
+R7
+Z65 8F:\univerisidad\DD2\I2C\MODELSIM\monitor_bus_i2c.vhd
+Z66 FF:\univerisidad\DD2\I2C\MODELSIM\monitor_bus_i2c.vhd
+l0
+L9
+VC?Q56QUNdR>ja<PD>Ym^R2
+R10
+32
+Z67 !s108 1615844211.240000
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:\univerisidad\DD2\I2C\MODELSIM\monitor_bus_i2c.vhd|
+Z69 !s107 F:\univerisidad\DD2\I2C\MODELSIM\monitor_bus_i2c.vhd|
+R14
+R15
+!s100 zj^ZN[KGABJGkEeAeoUnG1
+!i10b 1
+Asim
+R3
+R4
+R5
+R6
+Z70 DEx4 work 15 monitor_bus_i2c 0 22 C?Q56QUNdR>ja<PD>Ym^R2
+l41
+L15
+VL_YQLlT=Zg6fbl`hN^U9M1
+R10
+32
+R67
+R68
+R69
+R14
+R15
+!s100 OeaQWc5DzKEgNcZSoD0FN3
+!i10b 1
+Emonitor_slave_i2c
+Z71 w1488198702
+R2
+R3
+R4
+R5
+R6
+R7
+Z72 8F:\univerisidad\DD2\I2C\MODELSIM\monitor_slave_i2c.vhd
+Z73 FF:\univerisidad\DD2\I2C\MODELSIM\monitor_slave_i2c.vhd
+l0
+L53
+Vn23N?cSdK:4<zR8ImAdb43
+R10
+32
+Z74 !s108 1615844211.493000
+Z75 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:\univerisidad\DD2\I2C\MODELSIM\monitor_slave_i2c.vhd|
+Z76 !s107 F:\univerisidad\DD2\I2C\MODELSIM\monitor_slave_i2c.vhd|
+R14
+R15
+!s100 n24@7SC;cn9z7X;OSOjaB2
+!i10b 1
+Asim
+R2
+R3
+R4
+R5
+R6
+R17
+l69
+L68
+VCQ::O=QGmQ5bcOngO6<5>3
+R10
+32
+R74
+R75
+R76
+R14
+R15
+!s100 j8EFf`?BP9b9EeJ6[ODhb2
+!i10b 1
+Ppack_agente_slave_i2c
+R5
+R6
+Z77 w1488198690
+R7
+Z78 8F:\univerisidad\DD2\I2C\MODELSIM\pack_agente_slave_i2c.vhd
+Z79 FF:\univerisidad\DD2\I2C\MODELSIM\pack_agente_slave_i2c.vhd
+l0
+L8
+Vd_OJOXMOzUFeY_H4Qh[:C1
+R10
+32
+b1
+Z80 !s108 1615844211.753000
+Z81 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:\univerisidad\DD2\I2C\MODELSIM\pack_agente_slave_i2c.vhd|
+Z82 !s107 F:\univerisidad\DD2\I2C\MODELSIM\pack_agente_slave_i2c.vhd|
+R14
+R15
+!s100 24EkkD;5@3:I85H=kcQJN2
+!i10b 1
+Bbody
+R2
+R3
+R4
+R5
+R6
+l0
+L91
+VE:V_Rj4cbc>SQKQ[<o@nO3
+R10
+32
+R80
+R81
+R82
+R14
+R15
+nbody
+!s100 H5cH6bae0KS3EmYBgaC_a3
+!i10b 1
+Ereg_in_sda
+Z83 w1615139639
+R3
+R4
+R5
+R6
+R7
+Z84 8F:\univerisidad\DD2\I2C\HDL\reg_in_SDA.vhd
+Z85 FF:\univerisidad\DD2\I2C\HDL\reg_in_SDA.vhd
+l0
+L38
+V?PC8WY@k?hdbKod]VoOE13
+R10
+32
+Z86 !s108 1615844209.852000
+Z87 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:\univerisidad\DD2\I2C\HDL\reg_in_SDA.vhd|
+Z88 !s107 F:\univerisidad\DD2\I2C\HDL\reg_in_SDA.vhd|
+R14
+R15
+!s100 Z_U8>MJYc@BPXcRzkF1c;1
+!i10b 1
+Artl
+R3
+R4
+R5
+R6
+R61
+l49
+L48
+VhK[n9l>RJ@R_=DoM?Vkn41
+R10
+32
+R86
+R87
+R88
+R14
+R15
+!s100 h5o>KO76llY5OSkTilh[;2
+!i10b 1
+Ereg_out_sda
+Z89 w1615287754
+R3
+R4
+R5
+R6
+R7
+Z90 8F:\univerisidad\DD2\I2C\HDL\reg_out_SDA.vhd
+Z91 FF:\univerisidad\DD2\I2C\HDL\reg_out_SDA.vhd
+l0
+L48
+Vd3>E<6:CLBe]>dWal:PB[1
+R10
+32
+Z92 !s108 1615844210.119000
+Z93 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:\univerisidad\DD2\I2C\HDL\reg_out_SDA.vhd|
+Z94 !s107 F:\univerisidad\DD2\I2C\HDL\reg_out_SDA.vhd|
+R14
+R15
+!s100 6f0E0_SVGzOQzdo1fT4Fl1
+!i10b 1
+Artl
+R3
+R4
+R5
+R6
+R62
+l64
+L60
+VM7;LlXE`9CZb`JSOicRl=0
+R10
+32
+R92
+R93
+R94
+R14
+R15
+!s100 EUo5Dj1V`jK2]aE@3:Q751
+!i10b 1
+Eresponder_slave_i2c
+Z95 w1488198658
+R2
+R3
+R4
+R5
+R6
+R7
+Z96 8F:\univerisidad\DD2\I2C\MODELSIM\responder_slave_i2c.vhd
+Z97 FF:\univerisidad\DD2\I2C\MODELSIM\responder_slave_i2c.vhd
+l0
+L40
+VG]49H1[?aW03Iz3oHkXn52
+R10
+32
+Z98 !s108 1615844212.024000
+Z99 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:\univerisidad\DD2\I2C\MODELSIM\responder_slave_i2c.vhd|
+Z100 !s107 F:\univerisidad\DD2\I2C\MODELSIM\responder_slave_i2c.vhd|
+R14
+R15
+!s100 @mO@9_JjIa`5lB1@:QLcb2
+!i10b 1
+Asim
+R2
+R3
+R4
+R5
+R6
+R19
+l59
+L51
+V<4D]465BE4Jj6JEUGdmUT0
+R10
+32
+R98
+R99
+R100
+R14
+R15
+!s100 <Z0H0W9R;ZPn_g_HE_nol1
+!i10b 1
+Esecuenciador_interfaz_i2c
+Z101 w1517310584
+R2
+R3
+R4
+R5
+R6
+R7
+Z102 8F:\univerisidad\DD2\I2C\MODELSIM\secuenciador_interfaz_i2c.vhd
+Z103 FF:\univerisidad\DD2\I2C\MODELSIM\secuenciador_interfaz_i2c.vhd
+l0
+L17
+VXeIMG6:428BB1Tbcl?WY03
+R10
+32
+Z104 !s108 1615844212.299000
+Z105 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:\univerisidad\DD2\I2C\MODELSIM\secuenciador_interfaz_i2c.vhd|
+Z106 !s107 F:\univerisidad\DD2\I2C\MODELSIM\secuenciador_interfaz_i2c.vhd|
+R14
+R15
+!s100 z[m67:2bbfXC@lc0BHlH=0
+!i10b 1
+Asim
+R2
+R3
+R4
+R5
+R6
+Z107 DEx4 work 25 secuenciador_interfaz_i2c 0 22 XeIMG6:428BB1Tbcl?WY03
+l33
+L32
+V_^;Em2J3<D]Bb3WmkdFPk3
+R10
+32
+R104
+R105
+R106
+R14
+R15
+!s100 <a@]VnPD>8Ez9l`4Z3Cz93
+!i10b 1
+Esequencer_slave_i2c
+Z108 w1488198760
+R2
+R3
+R4
+R5
+R6
+R7
+Z109 8F:\univerisidad\DD2\I2C\MODELSIM\sequencer_slave_i2c.vhd
+Z110 FF:\univerisidad\DD2\I2C\MODELSIM\sequencer_slave_i2c.vhd
+l0
+L30
+V6KP]l4O5S@OIzlhBdnF_z1
+R10
+32
+Z111 !s108 1615844212.582000
+Z112 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:\univerisidad\DD2\I2C\MODELSIM\sequencer_slave_i2c.vhd|
+Z113 !s107 F:\univerisidad\DD2\I2C\MODELSIM\sequencer_slave_i2c.vhd|
+R14
+R15
+!s100 ]F`VlQoC3WA8figGAO@jQ2
+!i10b 1
+Asim
+R2
+R3
+R4
+R5
+R6
+R16
+l44
+L43
+V]mHT3`mME6G401Qm61fo;0
+R10
+32
+R111
+R112
+R113
+R14
+R15
+!s100 200`0h@AV]B?_Lm_bmBXk0
+!i10b 1
+Etest_basico_interfaz_i2c
+Z114 w1519322428
+R2
+R3
+R4
+R5
+R6
+R7
+Z115 8F:\univerisidad\DD2\I2C\MODELSIM\test_basico_interfaz_i2c.vhd
+Z116 FF:\univerisidad\DD2\I2C\MODELSIM\test_basico_interfaz_i2c.vhd
+l0
+L17
+V]=l:Ta3HiQKRddgIWhl]h1
+R10
+32
+Z117 !s108 1615844212.860000
+Z118 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:\univerisidad\DD2\I2C\MODELSIM\test_basico_interfaz_i2c.vhd|
+Z119 !s107 F:\univerisidad\DD2\I2C\MODELSIM\test_basico_interfaz_i2c.vhd|
+R14
+R15
+!s100 hkMM:E>jToZ9i`hB^3>C_1
+!i10b 1
+Atest
+R20
+R70
+R107
+R40
+R63
+R2
+R3
+R4
+R5
+R6
+DEx4 work 24 test_basico_interfaz_i2c 0 22 ]=l:Ta3HiQKRddgIWhl]h1
+l38
+L20
+VRPg`L[JlgfJ]o^8?]IXl[2
+!s100 SD?B5dRE`?0PhN@YmU<nF1
+R10
+32
+R117
+R118
+R119
+R14
+R15
+!i10b 1
+Etest_gen_scl
+Z120 w1615840463
+R3
+R4
+R5
+R6
+R7
+Z121 8F:\univerisidad\DD2\I2C\MODELSIM\test_gen_SCL.vhd
+Z122 FF:\univerisidad\DD2\I2C\MODELSIM\test_gen_SCL.vhd
+l0
+L60
+Vo<_VX?mLNj3e[QND_AURE2
+!s100 :Bh:S80P86X[`RB9`^9n93
+R10
+32
+!i10b 1
+Z123 !s108 1615844213.084000
+Z124 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:\univerisidad\DD2\I2C\MODELSIM\test_gen_SCL.vhd|
+Z125 !s107 F:\univerisidad\DD2\I2C\MODELSIM\test_gen_SCL.vhd|
+R14
+R15
+Atest
+R54
+R3
+R4
+R5
+R6
+Z126 DEx4 work 12 test_gen_scl 0 22 o<_VX?mLNj3e[QND_AURE2
+l88
+L63
+Z127 V^]^kM>cNmM8QKgEE8R3jT2
+Z128 !s100 z8@hiR0@mEO_g@<jNBDdf2
+R10
+32
+!i10b 1
+R123
+R124
+R125
+R14
+R15
